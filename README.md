@@ -1,5 +1,5 @@
 # BlossomRecyclerViewAdapter
-安卓RecyclerView多级可收缩、展开列表适配器(1级列表、2级列表、3级列表、多级列表)
+安卓(Android)RecyclerView多级可收缩、展开列表适配器(1级列表、2级列表、3级列表、多级列表)
 
 轻松实现多级列表
 实现细节看example
